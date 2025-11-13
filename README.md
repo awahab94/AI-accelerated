@@ -2,6 +2,24 @@
 
 A React Native Expo app with secure authentication, biometric login, and form validation.
 
+## Screenshots & Demo
+
+### Home Screen
+
+<img src="./assets/home.png" alt="Home Screen" width="400" />
+
+### Login Screen
+
+<img src="./assets/login.png" alt="Login Screen" width="400" />
+
+### Sign Up Screen
+
+<img src="./assets/signup.png" alt="Sign Up Screen" width="400" />
+
+### Demo Video
+
+Watch the demo video: [Demo.mp4](./Demo.mp4)
+
 ## Prerequisites
 
 - Node.js 18+ and yarn
